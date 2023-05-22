@@ -1,0 +1,27 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Figuras\Figuras\bin\Debug\Figuras.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Figuras\Figuras\bin\Debug\Figuras.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Figuras\Figuras\bin\Debug\Figuras.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Figuras\Figuras\obj\Debug\Figuras.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Figuras\Figuras\obj\Debug\Figuras.csprojAssemblyReference.cache
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+E:\Projects\Figuras\Figuras\bin\Debug\Figuras.exe.config
+E:\Projects\Figuras\Figuras\bin\Debug\Figuras.exe
+E:\Projects\Figuras\Figuras\bin\Debug\Figuras.pdb
+E:\Projects\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+E:\Projects\Figuras\Figuras\obj\Debug\Figuras.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+E:\Projects\Figuras\Figuras\obj\Debug\Figuras.exe
+E:\Projects\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\mscorlib.dll
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\normidna.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\normnfc.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\normnfd.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\normnfkc.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Figuras\Figuras\bin\Debug\normnfkd.nlp
